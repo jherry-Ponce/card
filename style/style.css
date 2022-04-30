@@ -2,7 +2,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(https://lenguajejs.com/vuejs/introduccion/que-es-vue/vuejs.png);
+  background-image: url(https://www.revistaneo.com/sites/default/files/2020-10/fondos-padres.jpg);
   background-size: cover;
   background-position: center;
   color: white;
@@ -53,6 +53,7 @@
 
 .article__title {
   font-size: 1.5rem;
+  color: rgb(105, 105, 198);
 }
 
 .article__keywords {
